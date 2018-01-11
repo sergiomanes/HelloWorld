@@ -3,7 +3,7 @@
 //  HelloWorldProject
 //
 //  Created by Sergio Daniel Manes on 7/9/17.
-//  Copyright © 2017 Sergio Daniel Manes. All rights reserved.
+//  
 //
 
 import UIKit
